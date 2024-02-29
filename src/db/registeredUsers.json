@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "userId": 1,
+            "name": "Koushtav",
+            "email": "koushtav@gmail.com",
+            "password": "$2b$08$YxOK/.DJ38tmqIcae1ulb.8LxJhDKFS6uC/DXn.Dqs1f3ArPc93Dm",
+            "role": "user",
+            "preferences": [
+                "entertainment",
+                "science"
+            ]
+        },
+        {
+            "userId": 2,
+            "name": "Aniket",
+            "email": "aniket@gmail.com",
+            "password": "$2b$08$5ALgkuWSxSYpOKsQG27t4ekPajeNsFlh4CWlLYIg5Jpwc0e7GB3E.",
+            "role": "admin",
+            "preferences": [
+                "entertainment",
+                "science"
+            ]
+        },
+        {
+            "userId": 3,
+            "name": "Atul",
+            "email": "atul@gmail.com",
+            "password": "$2b$08$UPEU5jUNqXOlc8mdaAEOfO8po35.iU1u2c46sZwNT47vHYcqYfFQa",
+            "role": "admin",
+            "preferences": [
+                "entertainment",
+                "science"
+            ]
+        }
+    ]
+}
